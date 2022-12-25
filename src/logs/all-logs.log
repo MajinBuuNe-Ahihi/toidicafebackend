@@ -1,0 +1,80 @@
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Dec/2022:10:53:35 +0000] \"POST /account/sgnin HTTP/1.1\" 400 11 \"-\" \"vscode-restclient\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Dec/2022:10:53:37 +0000] \"POST /account/sgnin HTTP/1.1\" 400 11 \"-\" \"vscode-restclient\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Dec/2022:10:53:37 +0000] \"POST /account/sgnin HTTP/1.1\" 400 11 \"-\" \"vscode-restclient\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Dec/2022:10:53:37 +0000] \"POST /account/sgnin HTTP/1.1\" 400 11 \"-\" \"vscode-restclient\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Dec/2022:10:53:37 +0000] \"POST /account/sgnin HTTP/1.1\" 400 11 \"-\" \"vscode-restclient\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Dec/2022:10:55:16 +0000] \"POST /account/sgnin HTTP/1.1\" 400 11 \"-\" \"vscode-restclient\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Dec/2022:10:55:46 +0000] \"POST /account/sgnin HTTP/1.1\" 400 11 \"-\" \"vscode-restclient\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Dec/2022:10:56:49 +0000] \"POST /account/sgnin HTTP/1.1\" 400 11 \"-\" \"vscode-restclient\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Dec/2022:10:57:16 +0000] \"POST /account/sgnin HTTP/1.1\" 400 11 \"-\" \"vscode-restclient\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [18/Dec/2022:10:57:37 +0000] \"POST /account/sgnin HTTP/1.1\" 400 11 \"-\" \"vscode-restclient\"\n"}
+[2022-12-18 18:10:23] [[31merror[39m] ::ffff:127.0.0.1 - - [18/Dec/2022:11:10:23 +0000] "POST /accont/signin HTTP/1.1" 400 11 "-" "vscode-restclient"
+
+[2022-12-18 18:14:32] [[31merror[39m] ::ffff:127.0.0.1 - - [18/Dec/2022:11:14:32 +0000] "POST /accont/signin HTTP/1.1" 400 11 "-" "vscode-restclient"
+
+[2022-12-18 18:16:02] [[31merror[39m] ::ffff:127.0.0.1 - - [18/Dec/2022:11:16:02 +0000] "POST /accont/signin HTTP/1.1" 400 11 "-" "vscode-restclient"
+
+[2022-12-18 18:17:13] [[31merror[39m] ::ffff:127.0.0.1 - - [18/Dec/2022:11:17:13 +0000] "POST /accont/signin HTTP/1.1" 400 11 "-" "vscode-restclient"
+
+[2022-12-18 18:18:29] [[31merror[39m] ::ffff:127.0.0.1 - - [18/Dec/2022:11:18:29 +0000] "POST /accont/signin HTTP/1.1" 400 11 "-" "vscode-restclient"
+
+[2022-12-18 18:18:29] [[32minfo[39m] ::ffff:127.0.0.1 - - [18/Dec/2022:11:18:29 +0000] "POST /accont/signin HTTP/1.1" 400 11 "-" "vscode-restclient"
+
+[2022-12-18 18:18:42] [[32minfo[39m] ::ffff:127.0.0.1 - - [18/Dec/2022:11:18:42 +0000] "POST /account/signin HTTP/1.1" 200 57 "-" "vscode-restclient"
+
+[2022-12-18 18:19:17] [[32minfo[39m] ::ffff:127.0.0.1 - - [18/Dec/2022:11:19:17 +0000] "POST /account/signin HTTP/1.1" 200 57 "-" "vscode-restclient"
+
+[2022-12-18 18:19:28] [[31merror[39m] ::ffff:127.0.0.1 - - [18/Dec/2022:11:19:28 +0000] "POST /acount/signin HTTP/1.1" 400 11 "-" "vscode-restclient"
+
+[2022-12-18 18:21:39] [[31merror[39m] ::ffff:127.0.0.1 - - [18/Dec/2022:11:21:39 +0000] "POST /acount/signin HTTP/1.1" 400 11 "-" "vscode-restclient"
+
+[2022-12-18 18:21:46] [[32minfo[39m] ::ffff:127.0.0.1 - - [18/Dec/2022:11:21:46 +0000] "POST /account/signin HTTP/1.1" 200 57 "-" "vscode-restclient"
+
+[2022-12-18 18:22:22] [[32minfo[39m] ::ffff:127.0.0.1 - - [18/Dec/2022:11:22:22 +0000] "POST /account/signin HTTP/1.1" 200 57 "-" "vscode-restclient"
+
+[2022-12-18 18:22:46] [[32minfo[39m] ::ffff:127.0.0.1 - - [18/Dec/2022:11:22:46 +0000] "POST /account/signin HTTP/1.1" 200 57 "-" "vscode-restclient"
+
+[2022-12-18 18:23:09] [[32minfo[39m] ::ffff:127.0.0.1 - - [18/Dec/2022:11:23:09 +0000] "POST /account/signin HTTP/1.1" 200 57 "-" "vscode-restclient"
+
+[2022-12-18 18:24:12] [[31merror[39m] SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at signIn (/home/manhneahihi/Desktop/backendtoidicafe/src/controller/account.controller.js:12:18)
+    at Layer.handle [as handle_request] (/home/manhneahihi/Desktop/backendtoidicafe/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/manhneahihi/Desktop/backendtoidicafe/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/manhneahihi/Desktop/backendtoidicafe/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/manhneahihi/Desktop/backendtoidicafe/node_modules/express/lib/router/layer.js:95:5)
+    at /home/manhneahihi/Desktop/backendtoidicafe/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/manhneahihi/Desktop/backendtoidicafe/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/manhneahihi/Desktop/backendtoidicafe/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/manhneahihi/Desktop/backendtoidicafe/node_modules/express/lib/router/index.js:175:3)
+[2022-12-18 18:24:12] [[31merror[39m] ::ffff:127.0.0.1 - - [18/Dec/2022:11:24:12 +0000] "POST /account/signin HTTP/1.1" 500 57 "-" "vscode-restclient"
+
+[2022-12-18 18:24:53] [[31merror[39m] Unexpected token o in JSON at position 1
+[2022-12-18 18:24:53] [[31merror[39m] ::ffff:127.0.0.1 - - [18/Dec/2022:11:24:53 +0000] "POST /account/signin HTTP/1.1" 500 57 "-" "vscode-restclient"
+
+[2022-12-25 00:02:13] [[32minfo[39m] ::ffff:127.0.0.1 - - [24/Dec/2022:17:02:13 +0000] "GET / HTTP/1.1" 200 4 "-" "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"
+
+[2022-12-25 00:02:15] [[32minfo[39m] ::ffff:127.0.0.1 - - [24/Dec/2022:17:02:15 +0000] "GET / HTTP/1.1" 200 4 "-" "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"
+
+[2022-12-25 00:02:18] [[32minfo[39m] ::ffff:127.0.0.1 - - [24/Dec/2022:17:02:18 +0000] "GET / HTTP/1.1" 200 4 "-" "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"
+
+[2022-12-25 00:02:55] [[32minfo[39m] ::ffff:127.0.0.1 - - [24/Dec/2022:17:02:55 +0000] "GET / HTTP/1.1" 200 4 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 15_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 LightSpeed [FBAN/MessengerLiteForiOS;FBAV/390.0.0.20.104;FBBV/428146516;FBDV/iPhone9,3;FBMD/iPhone;FBSN/iOS;FBSV/15.3.1;FBSS/2;FBCR/;FBID/phone;FBLC/vi;FBOP/0]"
+
+[2022-12-25 00:02:57] [[32minfo[39m] ::ffff:127.0.0.1 - - [24/Dec/2022:17:02:57 +0000] "GET / HTTP/1.1" 200 4 "-" "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"
+
+[2022-12-25 00:03:16] [[32minfo[39m] ::ffff:127.0.0.1 - - [24/Dec/2022:17:03:16 +0000] "GET / HTTP/1.1" 200 4 "-" "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) _zbot"
+
+[2022-12-25 00:03:17] [[32minfo[39m] ::ffff:127.0.0.1 - - [24/Dec/2022:17:03:17 +0000] "GET / HTTP/1.1" 200 4 "-" "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) _zbot"
+
+[2022-12-25 00:03:46] [[32minfo[39m] ::ffff:127.0.0.1 - - [24/Dec/2022:17:03:46 +0000] "GET / HTTP/1.1" 200 4 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54"
+
+[2022-12-25 00:03:47] [[31merror[39m] ::ffff:127.0.0.1 - - [24/Dec/2022:17:03:47 +0000] "GET /favicon.ico HTTP/1.1" 400 11 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54"
+
+[2022-12-25 00:13:44] [[32minfo[39m] ::ffff:127.0.0.1 - - [24/Dec/2022:17:13:44 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54"
+
+[2022-12-25 00:13:45] [[31merror[39m] ::ffff:127.0.0.1 - - [24/Dec/2022:17:13:45 +0000] "GET /favicon.ico HTTP/1.1" 400 11 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54"
+
+[2022-12-25 00:35:52] [[32minfo[39m] ::ffff:127.0.0.1 - - [24/Dec/2022:17:35:52 +0000] "GET /?fbclid=IwAR2SsGmLUgZYQC8cb5m-3IZ4BtbeHuz_vmirS_2nM-sbWobIRf10B0NQnLQ HTTP/1.1" 200 4 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54"
+
+[2022-12-25 00:35:52] [[31merror[39m] ::ffff:127.0.0.1 - - [24/Dec/2022:17:35:52 +0000] "GET /favicon.ico HTTP/1.1" 400 11 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54"
+
